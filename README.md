@@ -1,3 +1,6 @@
+# example for container deployment
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+
 # play-ground
 line 1
 line 2
